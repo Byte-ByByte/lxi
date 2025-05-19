@@ -1,0 +1,25 @@
+============================================================
+                  !!! WARNING NOTICE !!!
+============================================================
+
+You are currently using an UNRELEASED PREVIEW VERSION
+of the LXI Interpreter. This version is part of a pre-alpha
+development branch intended only for testing and development.
+
+!! THIS VERSION MAY INCLUDE:
+   - Experimental features
+   - Untested or unstable functionality
+   - Incomplete command implementations
+   - Unexpected behavior, crashes, or data loss
+
+By continuing to use this version, you acknowledge and accept
+all potential risks associated with it. The developer is not
+responsible for any damage, data corruption, or instability
+resulting from its use.
+
+Please report any bugs or issues encountered, as your feedback
+helps improve future versions of LXI and Arcadium.
+
+============================================================
+          Follow the on-screen instructions below.
+============================================================
